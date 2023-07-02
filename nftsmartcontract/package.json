@@ -1,0 +1,7 @@
+{
+  "name": "nft-marketplace",
+  "description": "NFT Marketplace",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.0"
+  }
+}
